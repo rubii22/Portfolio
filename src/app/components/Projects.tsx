@@ -9,11 +9,33 @@ const projects = [
     link: "https://flower-themed-website.vercel.app/"
   },
   {
+    title: "Teacher Hiring Website",
+    description: "A modern and user-friendly teacher hiring website built using React.js.",
+    imageUrl: "/images/teacher.png", 
+    link: "https://teacher-hiring-website.vercel.app/"
+  },
+  
+  {
+    title: "Dynamic Blog",
+    description: "A responsive and feature-rich dynamic blog built with interactive functionalities.",
+    imageUrl: "/images/blog.png", 
+    link: "https://dynamic-blog-gules.vercel.app/"
+  },
+  {
+    title: "Static Resume Builder",
+    description: "A beautifully designed static resume builder created using HTML and CSS.",
+    imageUrl: "/images/resume.png", 
+    link: "https://static-resume-builder-delta.vercel.app/"
+  },
+
+  {
     title: "ATM Machine",
     description: "An ATM machine simulation with functional user interface.",
     imageUrl: "/images/atm-machine.jpg",
     link: "https://github.com/rubii22/Colorfull-ATM-Machine.git"
   },
+  
+  
   {
     title: "Shareable Resume Builder",
     description: "A dynamic resume builder with shareable link functionality.",

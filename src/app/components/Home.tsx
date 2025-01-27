@@ -1,4 +1,4 @@
-import Image from "next/image";  // Next.js optimized Image component
+import Image from "next/image";  
 
 const Home = () => {
   return (
@@ -27,7 +27,7 @@ const Home = () => {
       </h1>
 
       <p className="text-lg md:text-xl text-gray-900 max-w-lg leading-relaxed mb-8">
-      A passionate and innovative <span className="font-bold text-blue-700">Web Developer</span> dedicated to crafting immersive digital experiences. With expertise in <span className="font-semibold text-teal-700">HTML, CSS, JavaScript, React.js and TypeScript</span>, I transform ideas into visually stunning and responsive web applications that captivate and engage.
+      A passionate and innovative <span className="font-bold text-blue-700">Web Developer</span> dedicated to crafting immersive digital experiences. With expertise in <span className="font-semibold text-teal-700">HTML, CSS, JavaScript, React.js, Next.js and TypeScript</span>, I transform ideas into visually stunning and responsive web applications that captivate and engage.
       </p>
 
       <button className="px-6 py-3 bg-blue-600 text-white font-semibold rounded-full shadow-lg transition-transform transform hover:scale-105 hover:bg-blue-500 focus:outline-none focus:ring-4 focus:ring-blue-300">

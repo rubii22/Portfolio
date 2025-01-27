@@ -1,4 +1,4 @@
-import { FaEnvelope, FaLinkedin, FaGithub } from "react-icons/fa"; // Correctly imported
+import { FaEnvelope, FaLinkedin, FaGithub } from "react-icons/fa";
 
 const Contact = () => {
   return (
@@ -6,7 +6,6 @@ const Contact = () => {
       id="contact"
       className="p-16 text-center bg-gradient-to-r from-purple-500 via-blue-500 to-indigo-500 bg-[length:200%_200%] animate-gradient text-white"
     >
-      {/* Updated Heading with Lighter Gradient and Animation */}
       <h2 className="text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-blue-500 mb-8 animate-pulse">
         Get in Touch
       </h2>

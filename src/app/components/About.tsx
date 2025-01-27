@@ -19,7 +19,7 @@ const About = () => {
         <span className="font-semibold text-blue-600">Web Developer</span> with a
         flair for building interactive and visually engaging web applications.
         My journey in web development began with a strong foundation in{" "}
-        <span className="font-semibold text-teal-500">HTML, CSS, JavaScript, React.js and TypeScript</span>,
+        <span className="font-semibold text-teal-500">HTML, CSS, JavaScript, React.js, Next.js and TypeScript</span>,
         and I’m continually expanding my skill set to bring innovative solutions
         to life. Currently, I'm diving into{" "}
         <span className="font-semibold text-blue-600">Next.js</span> to deepen

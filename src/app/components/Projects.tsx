@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Flower Themed Website",
     description: "A beautiful flower-themed website built using React.",
-    imageUrl: "/images/flower-theme.webp",
+    imageUrl: "/images/flower.png",
     link: "https://flower-themed-website.vercel.app/"
   },
   {
